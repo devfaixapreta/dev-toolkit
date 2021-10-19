@@ -1,4 +1,8 @@
 # dev-toolkit
+
+https://www.free-css.com/free-css-templates
+templates free
+
 https://bootswatch.com
 Themes customizados Bootstrap scss css
 
@@ -8,6 +12,12 @@ Customizador de Theme
 
 https://colorlib.com
 Themes e templates
+
+https://templatemo.com
+Templates html
+
+https://www.tooplate.com
+Templates html
 
 https://bootstrapmade.com
 Templates Bootstrap
