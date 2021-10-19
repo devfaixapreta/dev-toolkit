@@ -5,8 +5,11 @@ Várias ferramentas para desenvolvimento web
 https://www.layoutit.com
 Builder de estrutura básica bootstrap online
 
+https://bootstrapmade.com
+Templates Bootstrap
+
 https://startbootstrap.com
-Themes e templates bootstrap 
+Themes e templates start bootstrap 
 
 https://materialdesignicons.com
 Coleção de icones para download, png, svg, icon
