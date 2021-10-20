@@ -1,5 +1,5 @@
 # Atalhos Brackets e funcionalidades
-`Ctrl + N`	Novo documento
+`Ctrl + N` - Novo documento
 
 `Ctrl + O`	Abrir documento
 
