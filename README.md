@@ -58,3 +58,6 @@ Validador de email
 https://animate.style
 Animações em CSS
 
+## Cheat sheet
+https://docs.emmet.io/cheat-sheet/
+Cheat-sheet Emmet
