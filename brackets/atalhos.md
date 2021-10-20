@@ -1,5 +1,5 @@
 # Atalhos Brackets e funcionalidades
-`Ctrl + N` - Novo documento
+`Ctrl + N`   Novo documento
 
 `Ctrl + O`	Abrir documento
 
@@ -33,9 +33,9 @@
 
 `Ctrl + H`	Substituir
 
-`Ctrl + +`	Aumentar fonte
+`Ctrl + [+]`	Aumentar fonte
 
-`Ctrl + -`	Diminuir fonte
+`Ctrl + [-]`	Diminuir fonte
 
 `Ctrl + E`	Edição rápida
 
