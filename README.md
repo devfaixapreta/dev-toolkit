@@ -32,6 +32,10 @@ Templates Bootstrap
 https://startbootstrap.com
 Themes e templates start bootstrap 
 
+## desenvolvimento web
+https://devdocs.io
+Resumo de linguagens e frameworks
+
 https://www.cleancss.com
 Várias ferramentas para desenvolvimento web
 
