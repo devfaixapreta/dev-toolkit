@@ -1,8 +1,8 @@
 # dev-toolkit
 
 ## templates
-https://onepagelove.com/templates/free-templates
-OnePages Templates free
+https://onepagelove.com/
+Templates free
 
 https://www.free-css.com/free-css-templates
 templates free
