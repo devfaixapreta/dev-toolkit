@@ -66,6 +66,9 @@ https://animate.style
 Animações em CSS
 
 ## Cheat sheet
+https://devhints.io
+Cheatsheets 
+
 https://docs.emmet.io/cheat-sheet/
 Cheat-sheet Emmet
 
