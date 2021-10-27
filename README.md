@@ -101,3 +101,9 @@ https://www.heroku.com
 ## Site para aprender
 https://devchallenge.vercel.app
 Desafios de desenvolvimento back, front e mobile
+
+https://www.frontendmentor.io
+Desafios front end
+
+https://www.codewell.cc
+Desafios front end
