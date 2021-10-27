@@ -39,6 +39,9 @@ Resumo de linguagens e frameworks
 https://www.freeformatter.com
 formatação encoders e decoders
 
+https://ianlunn.github.io/Hover/
+Coleção de efeitos em CSS3
+
 https://www.cleancss.com
 Várias ferramentas para desenvolvimento web
 
