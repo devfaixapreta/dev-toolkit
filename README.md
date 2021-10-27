@@ -87,9 +87,17 @@ code online
 
 ## Hospedagem gratis
 https://infinityfree.net
+
 https://pages.github.com
+
 https://www.netlify.com
+
 https://vercel.com
+
 https://byet.host
+
 https://www.heroku.com
 
+## Site para aprender
+https://devchallenge.vercel.app
+Desafios de desenvolvimento back, front e mobile
