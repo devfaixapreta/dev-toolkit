@@ -36,6 +36,9 @@ Themes e templates start bootstrap
 https://devdocs.io
 Resumo de linguagens e frameworks
 
+https://www.freeformatter.com
+formatação encoders e decoders
+
 https://www.cleancss.com
 Várias ferramentas para desenvolvimento web
 
