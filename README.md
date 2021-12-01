@@ -33,6 +33,9 @@ https://startbootstrap.com
 Themes e templates start bootstrap 
 
 ## desenvolvimento web
+https://www.photopea.com
+Editor gráfico e conversor de extensão xd online
+
 https://bitbucket.org
 Ferramenta online de gestão de repositorios
 
